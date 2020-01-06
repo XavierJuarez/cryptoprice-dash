@@ -1,9 +1,9 @@
 {
   "name": "cryptoprice-dash",
+  "homepage": "https://github.com/XavierJuarez/cryptoprice-dash",
   "description": "",
   "main": "",
   "license": "MIT",
-  "homepage": "",
   "ignore": [
     "**/.*",
     "node_modules",
@@ -12,7 +12,6 @@
     "tests"
   ],
   "dependencies": {
-    "polymer": "Polymer/polymer#2.0.0",
-    "iron-ajax": "PolymerElements/iron-ajax#2.0.5"
+    "polymer": "Polymer/polymer#2.0.0"
   }
 }
